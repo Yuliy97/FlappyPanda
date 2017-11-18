@@ -1,0 +1,1 @@
+This is a flappy panda game that works just like flappy bird, pressing up button makes the panda move up and down, the game keeps track of the score count while playing and display the highest score at the end of the game.
